@@ -1,0 +1,50 @@
+[
+  {
+    "studentId": "STU1001",
+    "fullName": "Aarav Sharma",
+    "email": "aarav.sharma@example.com",
+    "phone": "9876501001",
+    "course": "B.Tech Computer Science",
+    "year": 3,
+    "department": "CSE",
+    "dateOfBirth": "2005-05-14",
+    "gender": "Male",
+    "address": "Hyderabad, Telangana"
+  },
+  {
+    "studentId": "STU1002",
+    "fullName": "Ananya Reddy",
+    "email": "ananya.reddy@example.com",
+    "phone": "9876501002",
+    "course": "B.Tech Data Science",
+    "year": 2,
+    "department": "CSE-DS",
+    "dateOfBirth": "2006-02-21",
+    "gender": "Female",
+    "address": "Warangal, Telangana"
+  },
+  {
+    "studentId": "STU1003",
+    "fullName": "Rahul Kumar",
+    "email": "rahul.kumar@example.com",
+    "phone": "9876501003",
+    "course": "BCA",
+    "year": 3,
+    "department": "Computer Applications",
+    "dateOfBirth": "2005-09-08",
+    "gender": "Male",
+    "address": "Secunderabad, Telangana"
+  },
+  {
+    "studentId": "STU1004",
+    "fullName": "Meera Nair",
+    "email": "meera.nair@example.com",
+    "phone": "9876501004",
+    "course": "B.Sc Computer Science",
+    "year": 1,
+    "department": "Computer Science",
+    "dateOfBirth": "2007-11-30",
+    "gender": "Female",
+    "address": "Kochi, Kerala"
+  }
+]
